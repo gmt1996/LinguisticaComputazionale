@@ -16,8 +16,8 @@ porzioni incrementali di 1000 token (1000 token, 2000 token, 3000 token, etc.);
 - il rapporto tra Sostantivi e Verbi;
 - le 10 PoS (Part-of-Speech) più frequenti;
 - estraete ed ordinate i 10 bigrammi di PoS:
-      - con probabilità condizionata massima, indicando anche la relativa probabilità;
-      - con forza associativa massima (calcolata in termini di Local Mutual Information),
+  - con probabilità condizionata massima, indicando anche la relativa probabilità;
+  - con forza associativa massima (calcolata in termini di Local Mutual Information),
 indicando anche la relativa forza associativa.
 
 ## Programma 2
