@@ -1,0 +1,1408 @@
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  1000
+0.757847533632287
+Grandezza vocabolario testo 1 per corpus lungo  1000
+446
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  2000
+0.7255434782608695
+Grandezza vocabolario testo 1 per corpus lungo  2000
+736
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  3000
+0.7193158953722334
+Grandezza vocabolario testo 1 per corpus lungo  3000
+994
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  4000
+0.7155737704918033
+Grandezza vocabolario testo 1 per corpus lungo  4000
+1220
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  5000
+0.6878531073446328
+Grandezza vocabolario testo 1 per corpus lungo  5000
+1416
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  6000
+0.6750948166877371
+Grandezza vocabolario testo 1 per corpus lungo  6000
+1582
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  7000
+0.6612995974698103
+Grandezza vocabolario testo 1 per corpus lungo  7000
+1739
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  8000
+0.6489925768822906
+Grandezza vocabolario testo 1 per corpus lungo  8000
+1886
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  9000
+0.641012909632572
+Grandezza vocabolario testo 1 per corpus lungo  9000
+2014
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  10000
+0.6310861423220974
+Grandezza vocabolario testo 1 per corpus lungo  10000
+2136
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  11000
+0.6261558784676354
+Grandezza vocabolario testo 1 per corpus lungo  11000
+2271
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  12000
+0.6216550020584602
+Grandezza vocabolario testo 1 per corpus lungo  12000
+2429
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  13000
+0.6199684293606945
+Grandezza vocabolario testo 1 per corpus lungo  13000
+2534
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  14000
+0.6188137514166981
+Grandezza vocabolario testo 1 per corpus lungo  14000
+2647
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  15000
+0.6114160263446762
+Grandezza vocabolario testo 1 per corpus lungo  15000
+2733
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  16000
+0.6103253182461104
+Grandezza vocabolario testo 1 per corpus lungo  16000
+2828
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  17000
+0.6087546657617916
+Grandezza vocabolario testo 1 per corpus lungo  17000
+2947
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  18000
+0.6085686465433301
+Grandezza vocabolario testo 1 per corpus lungo  18000
+3081
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  19000
+0.6066499372647428
+Grandezza vocabolario testo 1 per corpus lungo  19000
+3188
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  20000
+0.6022933011466506
+Grandezza vocabolario testo 1 per corpus lungo  20000
+3314
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  21000
+0.6003531489111242
+Grandezza vocabolario testo 1 per corpus lungo  21000
+3398
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  22000
+0.5982446206115515
+Grandezza vocabolario testo 1 per corpus lungo  22000
+3532
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  23000
+0.59524467790987
+Grandezza vocabolario testo 1 per corpus lungo  23000
+3617
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  24000
+0.5912290200324851
+Grandezza vocabolario testo 1 per corpus lungo  24000
+3694
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  25000
+0.5903774587985114
+Grandezza vocabolario testo 1 per corpus lungo  25000
+3762
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  26000
+0.5874253052740972
+Grandezza vocabolario testo 1 per corpus lungo  26000
+3849
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  27000
+0.5808917197452229
+Grandezza vocabolario testo 1 per corpus lungo  27000
+3925
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  28000
+0.5796703296703297
+Grandezza vocabolario testo 1 per corpus lungo  28000
+4004
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  29000
+0.5763582966226138
+Grandezza vocabolario testo 1 per corpus lungo  29000
+4086
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  30000
+0.5775119617224881
+Grandezza vocabolario testo 1 per corpus lungo  30000
+4180
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  31000
+0.5760767790262172
+Grandezza vocabolario testo 1 per corpus lungo  31000
+4272
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  32000
+0.575508339045008
+Grandezza vocabolario testo 1 per corpus lungo  32000
+4377
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  33000
+0.5721997300944669
+Grandezza vocabolario testo 1 per corpus lungo  33000
+4446
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  34000
+0.5691489361702128
+Grandezza vocabolario testo 1 per corpus lungo  34000
+4512
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  35000
+0.5677743769129865
+Grandezza vocabolario testo 1 per corpus lungo  35000
+4574
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  36000
+0.566041801335919
+Grandezza vocabolario testo 1 per corpus lungo  36000
+4641
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  37000
+0.566364211859042
+Grandezza vocabolario testo 1 per corpus lungo  37000
+4739
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  38000
+0.5638253638253639
+Grandezza vocabolario testo 1 per corpus lungo  38000
+4810
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  39000
+0.5621931260229133
+Grandezza vocabolario testo 1 per corpus lungo  39000
+4888
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  40000
+0.5608625554212011
+Grandezza vocabolario testo 1 per corpus lungo  40000
+4962
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  41000
+0.5598009950248756
+Grandezza vocabolario testo 1 per corpus lungo  41000
+5025
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  42000
+0.5635090449328924
+Grandezza vocabolario testo 1 per corpus lungo  42000
+5141
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  43000
+0.5647530040053405
+Grandezza vocabolario testo 1 per corpus lungo  43000
+5243
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  44000
+0.5625352642467557
+Grandezza vocabolario testo 1 per corpus lungo  44000
+5317
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  45000
+0.5624074074074074
+Grandezza vocabolario testo 1 per corpus lungo  45000
+5400
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  46000
+0.561746437705517
+Grandezza vocabolario testo 1 per corpus lungo  46000
+5474
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  47000
+0.5619938815907864
+Grandezza vocabolario testo 1 per corpus lungo  47000
+5557
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  48000
+0.5598516949152542
+Grandezza vocabolario testo 1 per corpus lungo  48000
+5664
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  49000
+0.557920446615492
+Grandezza vocabolario testo 1 per corpus lungo  49000
+5732
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  50000
+0.5583147799280699
+Grandezza vocabolario testo 1 per corpus lungo  50000
+5839
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  51000
+0.5568124261354044
+Grandezza vocabolario testo 1 per corpus lungo  51000
+5923
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  52000
+0.5536222185042664
+Grandezza vocabolario testo 1 per corpus lungo  52000
+5977
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  53000
+0.5533564242124361
+Grandezza vocabolario testo 1 per corpus lungo  53000
+6063
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  54000
+0.5541972290138549
+Grandezza vocabolario testo 1 per corpus lungo  54000
+6135
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  55000
+0.5539278815196395
+Grandezza vocabolario testo 1 per corpus lungo  55000
+6212
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  56000
+0.5518506700701978
+Grandezza vocabolario testo 1 per corpus lungo  56000
+6268
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  57000
+0.5506719367588933
+Grandezza vocabolario testo 1 per corpus lungo  57000
+6325
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  58000
+0.5490042339658147
+Grandezza vocabolario testo 1 per corpus lungo  58000
+6377
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  59000
+0.548021722265322
+Grandezza vocabolario testo 1 per corpus lungo  59000
+6445
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  60000
+0.5482584011048028
+Grandezza vocabolario testo 1 per corpus lungo  60000
+6517
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  61000
+0.5473620191576707
+Grandezza vocabolario testo 1 per corpus lungo  61000
+6577
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  62000
+0.5455639097744361
+Grandezza vocabolario testo 1 per corpus lungo  62000
+6650
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  63000
+0.5438701027856399
+Grandezza vocabolario testo 1 per corpus lungo  63000
+6713
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  64000
+0.5412492634060107
+Grandezza vocabolario testo 1 per corpus lungo  64000
+6788
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  65000
+0.5413138686131387
+Grandezza vocabolario testo 1 per corpus lungo  65000
+6850
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  66000
+0.5410949010544561
+Grandezza vocabolario testo 1 per corpus lungo  66000
+6923
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  67000
+0.5397279885468862
+Grandezza vocabolario testo 1 per corpus lungo  67000
+6985
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  68000
+0.5411697898921067
+Grandezza vocabolario testo 1 per corpus lungo  68000
+7044
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  69000
+0.540468133107727
+Grandezza vocabolario testo 1 per corpus lungo  69000
+7092
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  70000
+0.5394866040117828
+Grandezza vocabolario testo 1 per corpus lungo  70000
+7129
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  71000
+0.53785137767882
+Grandezza vocabolario testo 1 per corpus lungo  71000
+7186
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  72000
+0.5384827586206896
+Grandezza vocabolario testo 1 per corpus lungo  72000
+7250
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  73000
+0.5389964548677393
+Grandezza vocabolario testo 1 per corpus lungo  73000
+7334
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  74000
+0.53770136726682
+Grandezza vocabolario testo 1 per corpus lungo  74000
+7387
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  75000
+0.5352909482758621
+Grandezza vocabolario testo 1 per corpus lungo  75000
+7424
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  76000
+0.5330744509908945
+Grandezza vocabolario testo 1 per corpus lungo  76000
+7468
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  77000
+0.5333510496943927
+Grandezza vocabolario testo 1 per corpus lungo  77000
+7526
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  78000
+0.5318643620530413
+Grandezza vocabolario testo 1 per corpus lungo  78000
+7579
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  79000
+0.5311720698254364
+Grandezza vocabolario testo 1 per corpus lungo  79000
+7619
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  80000
+0.5295193312434692
+Grandezza vocabolario testo 1 per corpus lungo  80000
+7656
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  81000
+0.5291142523667488
+Grandezza vocabolario testo 1 per corpus lungo  81000
+7711
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  82000
+0.5272328342798142
+Grandezza vocabolario testo 1 per corpus lungo  82000
+7748
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  83000
+0.5254193878857728
+Grandezza vocabolario testo 1 per corpus lungo  83000
+7809
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  84000
+0.5261350629530713
+Grandezza vocabolario testo 1 per corpus lungo  84000
+7863
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  85000
+0.5246585735963581
+Grandezza vocabolario testo 1 per corpus lungo  85000
+7908
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  86000
+0.524600478167862
+Grandezza vocabolario testo 1 per corpus lungo  86000
+7947
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  87000
+0.5254406800850107
+Grandezza vocabolario testo 1 per corpus lungo  87000
+7999
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  88000
+0.5244311823946288
+Grandezza vocabolario testo 1 per corpus lungo  88000
+8043
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  89000
+0.5246974561620154
+Grandezza vocabolario testo 1 per corpus lungo  89000
+8098
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  90000
+0.5233116004428588
+Grandezza vocabolario testo 1 per corpus lungo  90000
+8129
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  91000
+0.5227550770736481
+Grandezza vocabolario testo 1 per corpus lungo  91000
+8174
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  92000
+0.5227576162155602
+Grandezza vocabolario testo 1 per corpus lungo  92000
+8239
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  93000
+0.5232656005771312
+Grandezza vocabolario testo 1 per corpus lungo  93000
+8317
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  94000
+0.5231630344170537
+Grandezza vocabolario testo 1 per corpus lungo  94000
+8397
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  95000
+0.5237757274662882
+Grandezza vocabolario testo 1 per corpus lungo  95000
+8454
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  96000
+0.5241622574955909
+Grandezza vocabolario testo 1 per corpus lungo  96000
+8505
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  97000
+0.5221922941796463
+Grandezza vocabolario testo 1 per corpus lungo  97000
+8539
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  98000
+0.5226083924212483
+Grandezza vocabolario testo 1 per corpus lungo  98000
+8603
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  99000
+0.5222966728280961
+Grandezza vocabolario testo 1 per corpus lungo  99000
+8656
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  100000
+0.522400092134055
+Grandezza vocabolario testo 1 per corpus lungo  100000
+8683
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  101000
+0.5224120142152929
+Grandezza vocabolario testo 1 per corpus lungo  101000
+8723
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  102000
+0.5212984054669704
+Grandezza vocabolario testo 1 per corpus lungo  102000
+8780
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  103000
+0.5193288742772928
+Grandezza vocabolario testo 1 per corpus lungo  103000
+8821
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  104000
+0.5186104218362283
+Grandezza vocabolario testo 1 per corpus lungo  104000
+8866
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  105000
+0.5179233621755254
+Grandezza vocabolario testo 1 per corpus lungo  105000
+8899
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  106000
+0.5168665247114199
+Grandezza vocabolario testo 1 per corpus lungo  106000
+8923
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  107000
+0.5165829145728643
+Grandezza vocabolario testo 1 per corpus lungo  107000
+8955
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  108000
+0.5152391546162403
+Grandezza vocabolario testo 1 per corpus lungo  108000
+8990
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  109000
+0.5138673175061016
+Grandezza vocabolario testo 1 per corpus lungo  109000
+9014
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  110000
+0.5124405617604777
+Grandezza vocabolario testo 1 per corpus lungo  110000
+9043
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  111000
+0.5123348017621145
+Grandezza vocabolario testo 1 per corpus lungo  111000
+9080
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  112000
+0.510930462484895
+Grandezza vocabolario testo 1 per corpus lungo  112000
+9103
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  113000
+0.5113810461807835
+Grandezza vocabolario testo 1 per corpus lungo  113000
+9138
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  114000
+0.5118879600477689
+Grandezza vocabolario testo 1 per corpus lungo  114000
+9211
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  115000
+0.5109141992651827
+Grandezza vocabolario testo 1 per corpus lungo  115000
+9254
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  116000
+0.5109653837884326
+Grandezza vocabolario testo 1 per corpus lungo  116000
+9302
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  117000
+0.5099635740304264
+Grandezza vocabolario testo 1 per corpus lungo  117000
+9334
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  118000
+0.5086859213471171
+Grandezza vocabolario testo 1 per corpus lungo  118000
+9383
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  119000
+0.5089096308867204
+Grandezza vocabolario testo 1 per corpus lungo  119000
+9428
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  120000
+0.5080858260226192
+Grandezza vocabolario testo 1 per corpus lungo  120000
+9461
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  121000
+0.5081536033666492
+Grandezza vocabolario testo 1 per corpus lungo  121000
+9505
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  122000
+0.5075519194461926
+Grandezza vocabolario testo 1 per corpus lungo  122000
+9534
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  123000
+0.5073783359497646
+Grandezza vocabolario testo 1 per corpus lungo  123000
+9555
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  124000
+0.5078670417838907
+Grandezza vocabolario testo 1 per corpus lungo  124000
+9597
+Distribuzione hapax nel testo di token testo 1 per corpus lungo  125000
+0.5076363636363637
+Grandezza vocabolario testo 1 per corpus lungo  125000
+9625
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 1000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 2000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 3000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 4000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 5000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 6000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 7000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 8000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 9000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 10000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 11000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 12000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 13000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 14000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 15000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 16000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 17000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 18000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 19000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 20000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 21000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 22000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 23000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 24000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 25000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 26000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 27000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 28000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 29000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 30000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 31000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 32000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 33000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 34000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 35000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 36000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 37000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 38000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 39000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 40000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 41000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 42000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 43000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 44000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 45000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 46000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 47000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 48000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 49000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 50000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 51000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 52000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 53000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 54000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 55000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 56000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 57000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 58000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 59000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 60000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 61000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 62000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 63000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 64000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 65000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 66000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 67000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 68000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 69000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 70000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 71000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 72000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 73000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 74000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 75000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 76000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 77000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 78000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 79000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 80000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 81000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 82000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 83000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 84000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 85000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 86000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 87000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 88000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 89000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 90000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 91000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 92000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 93000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 94000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 95000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 96000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 97000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 98000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 99000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 100000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 101000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 102000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 103000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 104000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 105000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 106000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 107000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 108000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 109000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 110000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 111000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 112000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 113000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 114000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 115000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 116000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 117000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 118000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 119000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 120000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 121000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 122000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 123000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 124000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 125000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 126000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 127000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 128000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 129000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 130000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 131000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 132000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 133000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 134000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 135000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 136000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 137000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 138000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 139000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 140000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 141000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 142000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 143000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 144000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 145000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 146000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 147000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 148000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 149000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 150000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 151000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 152000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 153000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 154000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 155000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 156000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 157000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 158000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 159000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 160000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 161000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 162000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 163000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 164000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 165000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 166000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 167000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 168000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 169000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 170000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 171000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 172000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 173000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 174000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 175000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 176000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 177000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 178000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 179000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 180000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 181000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 182000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 183000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 184000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 185000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 186000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 187000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 188000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Distribuzione hapax nel testo di token testo 2 per corpus lungo 189000
+0.5101901400432653
+Grandezza vocabolario testo 2 per corpus lungo 126000
+8783
+Numero totale di frasi testo 1
+ 4705 
+
+Numero totale di frasi testo 2
+ 8444 
+
+Il testo con il numero maggiore di frasi è il secondo 
+
+Numero totale di token
+ 125023 
+
+Numero totale di token 2
+ 189686 
+
+Il testo con il numero maggiore di token è il secondo 
+
+Lunghezza media delle frasi in termini di token testo 1
+ 26.572369819341127 
+
+Lunghezza media delle frasi in termini di token testo 2
+ 22.46399810516343 
+
+Il testo con la lunghezza media delle frasi è il primo
+
+Lunghezza media delle parole in termini di caratteri
+ 4.587251945642002 
+
+Lunghezza media delle parole in termini di caratteri 2
+ 4.520481216325928 
+
+Il testo con la lunghezza media delle parole è il primo
+
+Grandezza vocabolario testo 1
+ 9626 
+
+Grandezza vocabolario testo 2
+ 10627 
+
+Il testo con il vocabolario più ampio è il secondo
+
+Il testo con hapax maggiori è il secondo
+
+10 PoS piu comuni testo 1
+- NN  :  16214
+- IN  :  13323
+- DT  :  10562
+- PRP  :  10472
+- ,  :  7651
+- JJ  :  7553
+- NNP  :  7232
+- VBD  :  6910
+- RB  :  6053
+- .  :  5481
+10 PoS piu comuni  testo 2
+- NN  :  20454
+- IN  :  19979
+- PRP  :  17752
+- DT  :  14777
+- ,  :  11231
+- VBD  :  10631
+- RB  :  10381
+- JJ  :  9671
+- .  :  8502
+- VB  :  7900
+Rapporto sostantivi e verbi testo 1
+ 1.6774790881808315 
+
+Rapporto sostantivi e verbi testo 2
+ 1.3765679442508711 
+
+10 Pos con probabilità condizionata massima
+
+
+- ('POS', 'NN')  :  1.0
+- ('$', 'CD')  :  1.0
+- ('PDT', 'DT')  :  0.9072847682119205
+- ('RBS', 'JJ')  :  0.8734177215189873
+- ('MD', 'VB')  :  0.7051282051282052
+- ('WP$', 'NN')  :  0.6666666666666666
+- ('PRP$', 'NN')  :  0.6294117647058823
+- (')', ',')  :  0.6
+- ('DT', 'NN')  :  0.5644764249195228
+- ('UH', ',')  :  0.5594405594405595
+10 Pos con probabilità condizionata massima testo 2
+
+
+- ('$', 'CD')  :  1.0 
+
+- ('PDT', 'DT')  :  0.9033333333333333 
+
+- ('UH', ',')  :  0.7251184834123223 
+
+- ('MD', 'VB')  :  0.6711864406779661 
+
+- ('RBS', 'JJ')  :  0.6333333333333333 
+
+- ('TO', 'VB')  :  0.5902777777777778 
+
+- ('PRP$', 'NN')  :  0.5668122270742358 
+
+- ('DT', 'NN')  :  0.514854165256818 
+
+- ('POS', 'NN')  :  0.4970845481049563 
+
+- ('WRB', 'PRP')  :  0.492742551566081 
+
+10 PoS con forza associativa massima in termini di LMI
+
+
+- ('MD', 'VB')  :  754.1300531285013 
+
+- ('TO', 'VB')  :  256.42473884906417 
+
+- ('EX', 'VBZ')  :  49.38197237511941 
+
+- ('$', 'CD')  :  42.87269778641874 
+
+- (':', 'CC')  :  17.01473013428468 
+
+- ('.', "''")  :  16.438908003804507 
+
+- ('RBS', 'JJ')  :  10.669493806401917 
+
+- (')', ':')  :  2.945008328415423 
+
+- ('FW', 'FW')  :  1.887870024021881 
+
+- ('(', 'CD')  :  1.2507967206475323 
+
+10 PoS con forza associativa massima in termini di LMI testo 2
+
+
+- ("''", '``')  :  138.77344177073806 
+
+- ('``', 'UH')  :  20.495617666259147 
+
+- ('EX', 'VBZ')  :  14.30692489845167 
+
+- (')', 'FW')  :  4.118058918676523 
+
+- ('$', 'CD')  :  3.68195980386985 
+
+- ('(', 'UH')  :  3.133769462823301 
+
+- (')', '``')  :  1.6397320295611941 
+
+- ('CD', ')')  :  0.5383783900219988 
+
+- ('(', 'CD')  :  0.5383783900219988 
+
+- ('JJ', '$')  :  0.13599740184989395 
+
